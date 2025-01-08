@@ -10,41 +10,41 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(../img/xuan.png) no-repeat center/cover;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(/xuan.png) no-repeat center/cover;
 }
 
 #weather{
  width: 350px;
  border-radius: 10px;
   padding: 30px 20px;
-  background:url(../img/xuan.png) no-repeat center/cover;
+  background:url(/xuan.png) no-repeat center/cover;
 }
 .hot {
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(../img/he.png) no-repeat center/cover;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(/he.png) no-repeat center/cover;
 }
 .hot #weather {
-  background:url(../img/he.png) no-repeat center/cover;
+  background:url(/he.png) no-repeat center/cover;
      
 }
 .cold {
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(../img/dong.png) no-repeat center/cover;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(/dong.png) no-repeat center/cover;
 }
 .cold #weather {
-  background:url(../img/dong.png) no-repeat center/cover;
+  background:url(/dong.png) no-repeat center/cover;
      
 }
 .cool {
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(../img/xuan.webp) no-repeat center/cover;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(/xuan.webp) no-repeat center/cover;
 }
 .cool #weather {
-  background:url(../img/xuan.webp) no-repeat center/cover;
+  background:url(/xuan.webp) no-repeat center/cover;
      
 }
 .warm{
-    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(../img/warm.webp) no-repeat center/cover;
+    background: linear-gradient(to top,rgba(0,0,0,0.8),rgba(0,0,0,0.44)), url(/warm.webp) no-repeat center/cover;
 }
 .warm #weather {
-  background:url(../img/warm.webp) no-repeat center/cover;
+  background:url(/warm.webp) no-repeat center/cover;
      
 }
 .search {
